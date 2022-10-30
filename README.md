@@ -11,7 +11,7 @@ Lesson 1- Linear Regrssion:
         -> Sub-plots and over-layered graphs
         -> Single variable and Multi Variable Regression Models
         
-        ![image](https://user-images.githubusercontent.com/94131187/198885195-5f0b82bc-590f-4f9c-b782-8ebdbdab4768.png)
+        ![Lesson 1 - Linear Regrssion](https://user-images.githubusercontent.com/94131187/198886113-9a28d63a-98a0-4c7a-a2cc-a46ce558d052.png)
 
  
 Lesson 2- Big Mart Sales:
@@ -23,7 +23,7 @@ Lesson 2- Big Mart Sales:
         -> How to test validation split the given data and how to check the accuracy of the model with the same.
         -> Predict the outcomes for the Test data and store the result in a csv file. 
         
-        ![image](https://user-images.githubusercontent.com/94131187/198885784-1fecaee1-3f55-411c-9462-bd3f419debda.png)
+        ![Lesson 2 - Big Mart Sales](https://user-images.githubusercontent.com/94131187/198886077-11ee0238-a77f-4686-9008-f57cd8665236.png)
 
         
 Lesson 3- Titanic Survivors:
@@ -35,6 +35,7 @@ Lesson 3- Titanic Survivors:
         -> Study of Heat maps and Confusion matrix
         -> Judge the model using precision, recall and F1 Scores.
         
-        ![image](https://user-images.githubusercontent.com/94131187/198885750-9ba9461a-7193-484b-b3e2-c8ecd28b6345.png)
+          ![Lesson 3 - Titanic Survivors](https://user-images.githubusercontent.com/94131187/198886156-f9b33638-a689-4fc8-b8af-72be07499fbf.png)
+
 
           
