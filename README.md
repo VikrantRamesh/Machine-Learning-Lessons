@@ -38,4 +38,13 @@ Lesson 3- Titanic Survivors:
           
 ![Lesson 3 - Titanic Survivors](https://user-images.githubusercontent.com/94131187/198886156-f9b33638-a689-4fc8-b8af-72be07499fbf.png)
 
+Lesson 4- Voice Classification:
+          This project involves a voice classification problem where the model predicts whether a voice belongs to a male or a female based on various sound features such as - pitch, frequency, centroid.etc. After the model is build using a support vector classifier, the hyper-parameter tuning is done to inprove the performance of the model to produce more accurate classification predictions
           
+          Lessons Learnt:
+        -> Using a Support Vector Machine for classification problems
+        -> Hyper Parameter Tuning using GridSearchCV
+        -> Generate a classification report
+        
+![image](https://user-images.githubusercontent.com/94131187/200170489-d1886d3c-f6ce-458c-a3b4-8f5885a80713.png)
+
